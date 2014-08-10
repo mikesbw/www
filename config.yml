@@ -1,0 +1,13 @@
+---
+RuhohSpec: '2.0.alpha'
+
+production_url: http://mikesboatworks.com
+
+asset_pipeline:
+  enable: true
+
+'theme-clean-canvas':
+  use: 'theme'
+
+'img':
+  use: 'static'
