@@ -9,5 +9,13 @@ asset_pipeline:
 'theme-clean-canvas':
   use: 'theme'
 
+# how to set default properties?
+#   page:
+#     position: 99
+_root:
+  layout: theme
+  sort: ['position', 'asc']
+
+
 'img':
   use: 'static'

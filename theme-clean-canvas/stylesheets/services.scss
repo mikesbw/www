@@ -1,6 +1,74 @@
+@import 'theme-variables';
+
+#services {
+  margin-top: 90px;
+  .section_header {
+    h3 {
+      span {
+        font-size: 18px;
+        line-height: 20px;
+      }
+    }
+  }
+}
+
+/*Service Option 2*/
+.row-icon {
+  margin: 1em;
+
+  &.perk {
+    margin-bottom: 82px;
+    margin-left: 0;
+  }
+
+  .circle {
+    background: #1189D9;
+    text-align: center;
+    border-radius: 100%;
+    margin: 14px 0 0 0;
+    width: 136px;
+    height: 136px;
+    box-shadow: 1px 1px 2px 0px #E0E0E0;
+
+    img {
+      margin-top: 42px;
+    }
+  }
+
+  .square {
+    border: 5px solid $secondary-color;
+    text-align: center;
+    border-radius: 100%;
+    margin: 14px 0 0 0;
+    width: 125px;
+    height: 125px;
+    box-shadow: 1px 1px 2px 0px #E0E0E0;
+    padding: 15px;
+    img {
+      max-height: 100px;
+      max-width: 100px;
+    }
+  }
+
+  .description_wrapper {
+    float: right;
+
+    h5 {
+      font-size: 20px;
+      margin: 5px 0 10px 0;
+    }
+
+    p {
+      font-size: 14px;
+      line-height: 24px;
+      color: #3F3F3F;
+      margin-bottom: 0;
+    }
+  }
+}
+
 /*Service Option 1*/
 #service_1{
-	margin-top: 70px;
 	margin-bottom: 115px;
 
 	.section_header {
@@ -94,64 +162,6 @@
 	}
 }
 
-/*Service Option 2*/
-#service_2{
-	margin: 40px 0 115px;
-
-	.section_header {
-		h3 {
-			span {
-				font-size: 18px;
-				line-height: 20px;
-			}
-		}
-	}
-
-	.perk {
-		margin-bottom: 82px;
-		margin-left: 0;
-	}
-
-	.circle {
-		background: #1189D9;
-		text-align: center;
-		border-radius: 100%;
-		margin: 14px 0 0 0;
-		width: 136px;
-		height: 136px;
-		box-shadow: 1px 1px 2px 0px #E0E0E0;
-
-		img {
-			margin-top: 42px;
-		}
-	}
-
-	.circle1 {
-		img {
-			margin-top:49px;
-		}
-	}
-
-	.description_wrapper {
-		float: right;
-
-		h5 {
-			font-size: 20px;
-			margin: 5px 0 10px 0;
-		}
-
-		p {
-			font-size: 14px;
-			line-height: 24px;
-			color: #3F3F3F;
-			margin-bottom: 0;
-		}
-	}
-
-	.last {
-		margin-bottom: 0;
-	}
-}
 
 /*Service Option 3*/
 #process{
@@ -160,7 +170,7 @@
 	.section_header {
 		h3 {
 			margin:0;
-			
+
 			span {
 				font-size: 18px;
 				line-height: 20px;
@@ -243,8 +253,8 @@
 		.description_wrapper {
 			width: 77%;
 		}
-	} 
-	
+	}
+
 	#process {
 		.areas {
 			text-align: center;
@@ -294,7 +304,7 @@
 				}
 			}
 		}
-	}	
+	}
 
 	#service_2 {
 		.perk {
@@ -314,7 +324,7 @@
 			}
 		}
 	}
-	
+
 	#process {
 		.areas {
 			margin-top: 193px;

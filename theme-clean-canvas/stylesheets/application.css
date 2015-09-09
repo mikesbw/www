@@ -1,7 +1,7 @@
-# application.css
-
 //= require lib/animate
 //= require lib/bootstrap
 //= require bootstrap-overrides
 //= require theme
 //= require index
+//= require services
+//= require clients

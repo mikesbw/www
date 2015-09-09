@@ -1,4 +1,5 @@
 $(function () {
+  console.log('here');
     $(window).scroll(function() {
         if ($(".navbar").offset().top>30) {
             $(".navbar-fixed-top").addClass("sticky");
@@ -10,7 +11,9 @@ $(function () {
 
     // Flex
     if ($(".flexslider").length) {
-        $('.flexslider').flexslider();
+        $('.flexslider').flexslider({
+          slideshowSpeed: 60000
+        });
     }
 
     servicesCircle.initialize();

@@ -1,0 +1,70 @@
+@import 'theme-variables';
+
+/* Clients
+-------------------------------------------------- */
+#clients {
+    margin-top: 75px;
+
+    .client {
+        padding: 1em;
+        border: 1px solid $grey;
+        text-align: center;
+        &:hover {
+          cursor: pointer;
+          border-color: $black;
+          .img {
+            background-position: -100px center;
+          }
+        }
+        .img {
+          display: inline-block;
+          height: 75px;
+          width: 100px;
+          cursor: pointer;
+          background-repeat: no-repeat;
+          background-position: 0 center;
+        }
+
+        .westmar {
+          background-image: url('../../img/mbw/badge-westmar.png');
+        }
+        .seakeeper {
+          background-image: url('../../img/mbw/badge-seakeeper.png');
+        }
+        .imtra {
+          background-image: url('../../img/mbw/badge-imtra.png');
+        }
+    }
+}
+
+
+/* Responsive
+-------------------------------------------------- */
+@media (max-width: 991px) {
+    #showcase {
+        .features_op1_row {
+            .feature {
+                .img_box{
+                    span {
+                        &.circle{
+                            top: 35%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    #clients {
+        .row {
+            text-align: center;
+        }
+
+        .client {
+            text-align: center;
+            margin-bottom: 15px;
+            display: inline-block;
+            margin-right: 10px;
+            float: none;
+        }
+    }
+}
