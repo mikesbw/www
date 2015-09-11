@@ -15,7 +15,3 @@ asset_pipeline:
 _root:
   layout: theme
   sort: ['position', 'asc']
-
-
-'img':
-  use: 'static'
