@@ -10224,7 +10224,8 @@ header {
       margin-top: 0px !important;
       margin-bottom: 0px !important; }
     .navbar.sticky a.navbar-brand img {
-      height: 50px !important; }
+      height: 50px !important;
+      margin: 0 !important; }
     .navbar.sticky .nav > li > a {
       font-size: 1em; }
   .navbar .container .navbar-header .navbar-brand {
@@ -10237,7 +10238,8 @@ header {
       -webkit-transition: height .2s ease-in-out;
       -moz-transition: height .2s ease-in-out;
       transition: height .2s ease-in-out;
-      height: 75px; }
+      height: 50px;
+      margin: .5em 0; }
   .navbar .container .collapse .nav .dropdown .caret {
     margin-bottom: 4px; }
   .navbar .container .collapse .nav .dropdown .dropdown-menu {
@@ -10405,11 +10407,11 @@ header {
       text-align: center;
       margin-top: 30px; }
     #footer .credits .socialicons {
-      background: url("../../img/socialicons.png") no-repeat;
+      background: url("../media/socialicons.png") no-repeat;
       width: 265px;
       height: 36px; }
     #footer .credits .socialicons_h {
-      background: url("../../img/socialicons_h.png") no-repeat;
+      background: url("../media/socialicons_h.png") no-repeat;
       width: 265px;
       height: 36px; }
   #footer .info {
@@ -10449,12 +10451,12 @@ header {
   padding: 0px 18px; }
 
 .social_icon {
-  background: url("../../img/social_icons.png") no-repeat;
+  background: url("../media/social_icons.png") no-repeat;
   width: 110px;
   height: 18px; }
 
 .contact_social {
-  background: url("../../img/contact_social.png") no-repeat;
+  background: url("../media/contact_social.png") no-repeat;
   width: 180px;
   height: 34px; }
 
@@ -10671,7 +10673,7 @@ header {
     position: absolute;
     top: 250px;
     left: 0;
-    background: url(../../img/leftright-arrows.png) no-repeat;
+    background: url(../media/leftright-arrows.png) no-repeat;
     opacity: .5;
     -webkit-transition: opacity .1s linear;
     -moz-transition: opacity .1s linear;
@@ -10688,7 +10690,7 @@ header {
     top: 250px;
     left: auto;
     right: 0;
-    background: url(../../img/leftright-arrows.png) no-repeat;
+    background: url(../media/leftright-arrows.png) no-repeat;
     background-position: -31px 0;
     opacity: .5;
     -webkit-transition: opacity .1s linear;
@@ -11235,11 +11237,11 @@ header {
       background-repeat: no-repeat;
       background-position: 0 center; }
     #clients .client .westmar {
-      background-image: url("../../img/mbw/badge-westmar.png"); }
+      background-image: url("../media/mbw/badge-westmar.png"); }
     #clients .client .seakeeper {
-      background-image: url("../../img/mbw/badge-seakeeper.png"); }
+      background-image: url("../media/mbw/badge-seakeeper.png"); }
     #clients .client .imtra {
-      background-image: url("../../img/mbw/badge-imtra.png"); }
+      background-image: url("../media/mbw/badge-imtra.png"); }
 
 /* Responsive
 -------------------------------------------------- */

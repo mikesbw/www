@@ -10,35 +10,35 @@
       <link>http://mikesboatworks.com/new-site</link>
       <pubDate>2014-08-09</pubDate>
       <description>&lt;div id="feature_slider" class="lol"&gt;
-  &lt;article class="slide" id="showcasing" style="background: url('/img/backgrounds/landscape.png') repeat-x top center;"&gt;
-    &lt;img class="asset left-30 sp600 t120 z1" src="/img/slides/scene1/macbook.png" /&gt;
+  &lt;article class="slide" id="showcasing" style="background: url('/assets/media/backgrounds/landscape.png') repeat-x top center;"&gt;
+    &lt;img class="asset left-30 sp600 t120 z1" src="/assets/media/slides/scene1/macbook.png" /&gt;
     &lt;div class="info"&gt;
       &lt;h2&gt;Sea Keeper Gyro Stablizers&lt;/h2&gt;
       &lt;h3&gt;Specializing in west coast sales, service, and installations.&lt;/h3&gt;
       &lt;a href="services"&gt;FIND OUT MORE&lt;/a&gt;
     &lt;/div&gt;
   &lt;/article&gt;
-  &lt;article class="slide" id="ideas" style="background: url('/img/mbw/bg-sail-at-anchor.jpg') repeat-x top center;"&gt;
+  &lt;article class="slide" id="ideas" style="background: url('/assets/media/mbw/bg-sail-at-anchor.jpg') repeat-x top center;"&gt;
     &lt;div class="info"&gt;
         &lt;h2&gt;Plumbing &amp; Electrical&lt;/h2&gt;
     &lt;/div&gt;
-    &lt;img class="asset left-480 sp600 t260 z1" src="/img/slides/scene2/left.png" /&gt;
-    &lt;img class="asset left-210 sp600 t213 z2" src="/img/slides/scene2/middle.png" /&gt;
-    &lt;img class="asset left60 sp600 t260 z1" src="/img/slides/scene2/right.png" /&gt;
+    &lt;img class="asset left-480 sp600 t260 z1" src="/assets/media/slides/scene2/left.png" /&gt;
+    &lt;img class="asset left-210 sp600 t213 z2" src="/assets/media/slides/scene2/middle.png" /&gt;
+    &lt;img class="asset left60 sp600 t260 z1" src="/assets/media/slides/scene2/right.png" /&gt;
   &lt;/article&gt;
-  &lt;article class="slide" id="tour" style="background: url('/img/mbw/bg-angel-island.jpg') repeat-x top center;"&gt;
-    &lt;img class="asset left-472 sp650 t210 z3" src="/img/slides/scene3/ipad.png" /&gt;
-    &lt;img class="asset left-365 sp600 t270 z4" src="/img/slides/scene3/iphone.png" /&gt;
-    &lt;img class="asset left-350 sp450 t135 z2" src="/img/slides/scene3/desktop.png" /&gt;
-    &lt;img class="asset left-185 sp550 t220 z1" src="/img/slides/scene3/macbook.png" /&gt;
+  &lt;article class="slide" id="tour" style="background: url('/assets/media/mbw/bg-angel-island.jpg') repeat-x top center;"&gt;
+    &lt;img class="asset left-472 sp650 t210 z3" src="/assets/media/slides/scene3/ipad.png" /&gt;
+    &lt;img class="asset left-365 sp600 t270 z4" src="/assets/media/slides/scene3/iphone.png" /&gt;
+    &lt;img class="asset left-350 sp450 t135 z2" src="/assets/media/slides/scene3/desktop.png" /&gt;
+    &lt;img class="asset left-185 sp550 t220 z1" src="/assets/media/slides/scene3/macbook.png" /&gt;
     &lt;div class="info"&gt;
       &lt;h2&gt;Stabilization Installation and Service&lt;/h2&gt;
       &lt;a href="features.html"&gt;FIND OUT MORE&lt;/a&gt;
     &lt;/div&gt;
   &lt;/article&gt;
-  &lt;article class="slide" id="responsive" style="background: url('/img/mbw/bg-bridge.jpg') repeat-x top center;"&gt;
-    &lt;img class="asset left-372 sp600 t120 z3" src="/img/mbw/seakeeper-logo.png" /&gt;
-    &lt;img class="asset left-190 sp500 t120 z2" src="/img/mbw/imtra-sm.png" /&gt;
+  &lt;article class="slide" id="responsive" style="background: url('/assets/media/mbw/bg-bridge.jpg') repeat-x top center;"&gt;
+    &lt;img class="asset left-372 sp600 t120 z3" src="/assets/media/mbw/seakeeper-logo.png" /&gt;
+    &lt;img class="asset left-190 sp500 t120 z2" src="/assets/media/mbw/imtra-sm.png" /&gt;
     &lt;div class="info"&gt;
       &lt;h2&gt;
         Specializing in &lt;strong&gt;Finishing &amp;amp; Repair&lt;/strong&gt;
@@ -58,7 +58,7 @@
         &lt;div class="col-sm-4 feature first"&gt;
           &lt;div class="img_box"&gt;
               &lt;a href="services.html"&gt;
-                &lt;img src="/img/service1.png"&gt;
+                &lt;img src="/assets/media/service1.png"&gt;
                 &lt;span class="circle"&gt;
                   &lt;span class="plus"&gt;&amp;#43;&lt;/span&gt;
                 &lt;/span&gt;
@@ -74,7 +74,7 @@
         &lt;div class="col-sm-4 feature"&gt;
           &lt;div class="img_box"&gt;
             &lt;a href="services.html"&gt;
-              &lt;img src="/img/service2.png"&gt;
+              &lt;img src="/assets/media/service2.png"&gt;
               &lt;span class="circle"&gt;
                 &lt;span class="plus"&gt;&amp;#43;&lt;/span&gt;
               &lt;/span&gt;
@@ -90,7 +90,7 @@
         &lt;div class="col-sm-4 feature last"&gt;
           &lt;div class="img_box"&gt;
             &lt;a href="services.html"&gt;
-              &lt;img src="/img/service3.png"&gt;
+              &lt;img src="/assets/media/service3.png"&gt;
               &lt;span class="circle"&gt;
                 &lt;span class="plus"&gt;&amp;#43;&lt;/span&gt;
               &lt;/span&gt;
@@ -124,11 +124,11 @@
     &lt;/div&gt;
     &lt;div class="row feature"&gt;
       &lt;div class="col-sm-6"&gt;
-        &lt;img src="/img/showcase1.png" class="img-responsive" /&gt;
+        &lt;img src="/assets/media/showcase1.png" class="img-responsive" /&gt;
       &lt;/div&gt;
       &lt;div class="col-sm-6 info"&gt;
         &lt;h3&gt;
-          &lt;img src="/img/features-ico1.png" /&gt;
+          &lt;img src="/assets/media/features-ico1.png" /&gt;
           Accurate and Timely Estimates
         &lt;/h3&gt;
         &lt;p&gt;
@@ -138,11 +138,11 @@
     &lt;/div&gt;
     &lt;div class="row feature"&gt;
       &lt;div class="col-sm-6 pic-right"&gt;
-        &lt;img src="/img/showcase2.png" class="pull-right img-responsive" /&gt;
+        &lt;img src="/assets/media/showcase2.png" class="pull-right img-responsive" /&gt;
       &lt;/div&gt;
       &lt;div class="col-sm-6 info info-left"&gt;
         &lt;h3&gt;
-          &lt;img src="/img/features-ico2.png" /&gt;
+          &lt;img src="/assets/media/features-ico2.png" /&gt;
           Track Your Project Progress Online
         &lt;/h3&gt;
         &lt;p&gt;
@@ -152,11 +152,11 @@
     &lt;/div&gt;
     &lt;div class="row feature"&gt;
       &lt;div class="col-sm-6"&gt;
-        &lt;img src="/img/showcase3.png" class="img-responsive" /&gt;
+        &lt;img src="/assets/media/showcase3.png" class="img-responsive" /&gt;
       &lt;/div&gt;
       &lt;div class="col-sm-6 info"&gt;
         &lt;h3&gt;
-          &lt;img src="/img/features-ico3.png" /&gt;
+          &lt;img src="/assets/media/features-ico3.png" /&gt;
           Satisfaction Guaranteed
         &lt;/h3&gt;
         &lt;p&gt;
@@ -201,12 +201,12 @@
       <title>Index</title>
       <link>http://mikesboatworks.com/</link>
       <description>&lt;!--&#xD;
-&lt;header&gt;&lt;img src="/img/mbw/logo.png" alt="Mike's Boatworks" class="" /&gt;&lt;/header&gt; --&gt;&#xD;
+&lt;header&gt;&lt;img src="/assets/media/mbw/logo.png" alt="Mike's Boatworks" class="" /&gt;&lt;/header&gt; --&gt;&#xD;
 &#xD;
 &lt;section class="card"&gt;&#xD;
-  &lt;img src="/img/mbw/logo.png" alt="Mike's Boatworks" class="" /&gt;&#xD;
+  &lt;img src="/assets/media/mbw/logo.png" alt="Mike's Boatworks" class="" /&gt;&#xD;
   &lt;h3&gt;Mike's Boatworks specializes in Seakeeper sales, service, and installations.&lt;/h3&gt;&#xD;
-  &lt;img src="/img/seakeeper-logo.png" alt="" class="seakeeper" /&gt;&#xD;
+  &lt;img src="/assets/media/seakeeper-logo.png" alt="" class="seakeeper" /&gt;&#xD;
   &lt;h3&gt;Contact us for a quote today!&lt;/h3&gt;&#xD;
   &lt;footer&gt;&#xD;
     &lt;div&gt;&lt;a href="tel:5108658944" class=""&gt;&lt;i class="fa fa-phone"&gt;&lt;/i&gt;(510) 865-8944&lt;/a&gt;&lt;/div&gt;&#xD;
