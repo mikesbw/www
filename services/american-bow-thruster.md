@@ -4,7 +4,7 @@ date: '2014-08-10'
 tags: []
 description: Mikelson 65
 overview: There are many variations of passages of Lorem Ipsum available, injected generators on the  embarrassing hidden in the middle
-icon: {{urls.media}}/mbw/seakeeper.png
+icon: mbw/seakeeper.png
 layout: section
 ---
 
