@@ -1,7 +1,7 @@
 ---
 RuhohSpec: '2.0.alpha'
 
-production_url: http://mikesboatworks.com
+production_url: http://www.mikesboatworks.com
 
 asset_pipeline:
   enable: true
