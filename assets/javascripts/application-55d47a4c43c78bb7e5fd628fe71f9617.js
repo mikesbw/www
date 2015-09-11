@@ -2363,7 +2363,6 @@ if (typeof jQuery === 'undefined') {
 
 }(jQuery);
 $(function () {
-  console.log('here');
     $(window).scroll(function() {
         if ($(".navbar").offset().top>30) {
             $(".navbar-fixed-top").addClass("sticky");
