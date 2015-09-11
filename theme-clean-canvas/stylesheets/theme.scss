@@ -104,6 +104,7 @@ header {
     }
     a.navbar-brand img {
       height: 50px !important;
+      margin: 0 !important;
     }
     .nav {
       >li {
@@ -127,7 +128,8 @@ header {
           -webkit-transition: height .2s ease-in-out;
           -moz-transition: height .2s ease-in-out;
           transition: height .2s ease-in-out;
-          height: 75px;
+          height: 50px;
+          margin: .5em 0;
         }
       }
     }
@@ -401,13 +403,13 @@ header {
     }
 
     .socialicons {
-      background: url('../../img/socialicons.png') no-repeat;
+      background: url('../media/socialicons.png') no-repeat;
       width: 265px;
       height: 36px;
     }
 
     .socialicons_h {
-      background: url('../../img/socialicons_h.png') no-repeat;
+      background: url('../media/socialicons_h.png') no-repeat;
       width: 265px;
       height: 36px;
     }
@@ -469,12 +471,12 @@ header {
   padding: 0px 18px;
 }
 .social_icon {
-  background: url("../../img/social_icons.png") no-repeat;
+  background: url("../media/social_icons.png") no-repeat;
   width: 110px;
   height: 18px;
 }
 .contact_social {
-  background: url("../../img/contact_social.png") no-repeat;
+  background: url("../media/contact_social.png") no-repeat;
   width: 180px;
   height: 34px;
 }
